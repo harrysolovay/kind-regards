@@ -73,9 +73,11 @@ Every `Reporter` instance has the following methods.
 
 ### `info`
 
-> `info(...items: (string | false | undefined | null)[]): void`
-
 Outputs the concatenation of `items`
+
+#### Signature
+
+`info(...items: (string | false | undefined | null)[]): void`
 
 #### Example Usage
 
