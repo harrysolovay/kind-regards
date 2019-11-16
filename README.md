@@ -33,7 +33,7 @@ const report = new Reporter();
 
 ### Configuration Options
 
-The `Reporter` constructor accepts an optional object with the following properties.
+The `Reporter` constructor accepts an optional object with the following properties:
 
 | Key | Type | Default | Description |
 | :-- | :-- | :-- | :-- |
@@ -57,7 +57,7 @@ const report = new Reporter({
 
 ## Methods
 
-Every `Reporter` instance has the following methods.
+Every `Reporter` instance has the following methods:
 
 - [debug](#debug): description
 - [diagnostic](#diagnostic): description
@@ -87,7 +87,7 @@ Outputs the concatenation of `items`.
 report.info("Compiling...");
 ```
 
-... outputs the following.
+... outputs the following:
 
 <img src="readme-assets/info.png" />
 
