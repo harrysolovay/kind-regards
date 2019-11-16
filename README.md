@@ -73,8 +73,6 @@ Every `Reporter` instance has the following methods.
 
 ### `info`
 
-<br />
-
 #### Description
 
 Outputs the concatenation of `items`.
