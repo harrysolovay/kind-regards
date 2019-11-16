@@ -79,13 +79,9 @@ Every `Reporter` instance has the following methods.
 
 Outputs the concatenation of `items`.
 
-<br />
-
 #### Signature
 
 `info(...items: (string | false | undefined | null)[]): void`
-
-<br />
 
 #### Example
 
