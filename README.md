@@ -75,7 +75,7 @@ Every `Reporter` instance has the following methods.
 
 #### Description
 
-Outputs the concatenation of `items`
+Outputs the concatenation of `items`.
 
 #### Signature
 
