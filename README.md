@@ -59,13 +59,13 @@ const report = new Reporter({
 
 Every `Reporter` instance has the following methods:
 
-- [debug](#debug): description
-- [diagnostic](#diagnostic): description
-- [info](#info): description
-- [pending](#pending): description
-- [step](#step): description
-- [success](#success): description
-- [verbose](#verbose): description
+- [debug](#debug)
+- [diagnostic](#diagnostic)
+- [info](#info)
+- [pending](#pending)
+- [step](#step)
+- [success](#success)
+- [verbose](#verbose)
 
 ---
 
