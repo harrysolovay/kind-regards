@@ -73,21 +73,27 @@ Every `Reporter` instance has the following methods.
 
 ### `info`
 
+<br />
+
 #### Description
 
 Outputs the concatenation of `items`.
+
+<br />
 
 #### Signature
 
 `info(...items: (string | false | undefined | null)[]): void`
 
-#### Example Usage
+<br />
+
+#### Example
 
 ```ts
 report.info("Compiling...");
 ```
 
-#### Example Output
+... outputs the following.
 
 <img src="readme-assets/info.png" />
 
