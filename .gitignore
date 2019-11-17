@@ -41,3 +41,4 @@ package-lock.json
 *.log
 .versions
 generated
+lib
