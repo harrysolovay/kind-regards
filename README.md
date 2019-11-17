@@ -5,7 +5,7 @@
 ... is the CLI output resulting from the following:
 
 ```ts
-import { Reporter } from "../src";
+import { Reporter } from "kind-regards";
 import { join } from "path";
 
 const report = Reporter({
