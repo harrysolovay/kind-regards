@@ -33,6 +33,7 @@
     "typescript": "^3.7.2"
   },
   "scripts": {
+    "build": "tsc",
     "example": "ts-node example -P example/tsconfig.json"
   }
 }
