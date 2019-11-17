@@ -98,3 +98,7 @@ const report = Reporter({
 ```
 
 > make sure––when publishing––to include the referenced documentation in your package
+
+## Methods
+
+... look at the type definitions ;)
