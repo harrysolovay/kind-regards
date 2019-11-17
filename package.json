@@ -1,7 +1,7 @@
 {
   "name": "kind-regards",
-  "version": "0.0.2",
-  "description": "Teach your Node API some manners.",
+  "version": "0.0.3",
+  "description": "Teaching my Node APIs some manners.",
   "main": "lib/index.js",
   "repository": "https://github.com/harrysolovay/kind-regards",
   "author": {
