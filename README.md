@@ -1,5 +1,9 @@
 # Kind Regards,
 
+<img src="./screen.png" />
+
+... is the CLI output resulting from the following:
+
 ```ts
 import { Reporter } from "../src";
 import { join } from "path";
@@ -44,10 +48,6 @@ report.diagnostic({
   file: __filename,
 });
 ```
-
-... outputs the following:
-
-<img src="./screen.png" />
 
 ## Why?
 
