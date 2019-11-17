@@ -10,8 +10,17 @@
   },
   "license": "MIT",
   "private": false,
-  "dependencies": {},
+  "dependencies": {
+    "@types/node-emoji": "^1.8.1",
+    "chalk": "^3.0.0",
+    "cli-highlight": "^2.1.4",
+    "indent-string": "^4.0.0",
+    "javascript-stringify": "^2.0.1",
+    "log-symbols": "^3.0.0"
+  },
   "devDependencies": {
+    "@types/babel__code-frame": "^7.0.1",
+    "@types/log-symbols": "^3.0.0",
     "@types/node": "^12.12.8",
     "@typescript-eslint/eslint-plugin": "^2.7.0",
     "@typescript-eslint/parser": "^2.7.0",
@@ -23,5 +32,7 @@
     "ts-node": "^8.5.2",
     "typescript": "^3.7.2"
   },
-  "scripts": {}
+  "scripts": {
+    "example": "ts-node example -P example/tsconfig.json"
+  }
 }
